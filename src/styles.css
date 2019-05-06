@@ -9,6 +9,15 @@ body {
   color: #333;
 }
 
+.dark-mode {
+  background-color: #1a1919;
+  color: #999;
+}
+
+.dark-mode nav {
+  background-color: #1b2938;
+}
+
 nav {
   width: 100%;
   display: flex;
